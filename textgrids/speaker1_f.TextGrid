@@ -1,0 +1,156 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 694.1872789115646 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 694.1872789115646 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 17.94866176235762 
+            text = "" 
+        intervals [2]:
+            xmin = 17.94866176235762 
+            xmax = 18.41450162265198 
+            text = "sitf" 
+        intervals [3]:
+            xmin = 18.41450162265198 
+            xmax = 83.67558067649253 
+            text = "" 
+        intervals [4]:
+            xmin = 83.67558067649253 
+            xmax = 83.98125090089465 
+            text = "beti" 
+        intervals [5]:
+            xmin = 83.98125090089465 
+            xmax = 96.74517940844427 
+            text = "" 
+        intervals [6]:
+            xmin = 96.74517940844427 
+            xmax = 97.20506111379954 
+            text = "cheati" 
+        intervals [7]:
+            xmin = 97.20506111379954 
+            xmax = 109.55365102668998 
+            text = "" 
+        intervals [8]:
+            xmin = 109.55365102668998 
+            xmax = 109.97377633954902 
+            text = "backf" 
+        intervals [9]:
+            xmin = 109.97377633954902 
+            xmax = 122.6711087248286 
+            text = "" 
+        intervals [10]:
+            xmin = 122.6711087248286 
+            xmax = 123.12628124145998 
+            text = "backf" 
+        intervals [11]:
+            xmin = 123.12628124145998 
+            xmax = 137.20013404295761 
+            text = "" 
+        intervals [12]:
+            xmin = 137.20013404295761 
+            xmax = 137.47815477713348 
+            text = "thickf" 
+        intervals [13]:
+            xmin = 137.47815477713348 
+            xmax = 206.3169111725479 
+            text = "" 
+        intervals [14]:
+            xmin = 206.3169111725479 
+            xmax = 206.69133730671763 
+            text = "niecesi" 
+        intervals [15]:
+            xmin = 206.69133730671763 
+            xmax = 213.37895300021611 
+            text = "" 
+        intervals [16]:
+            xmin = 213.37895300021611 
+            xmax = 213.67244981947636 
+            text = "bettingi" 
+        intervals [17]:
+            xmin = 213.67244981947636 
+            xmax = 694.1872789115646 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "vowel" 
+        xmin = 0 
+        xmax = 694.1872789115646 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 18.048395780886313 
+            text = "" 
+        intervals [2]:
+            xmin = 18.048395780886313 
+            xmax = 18.126544286745084 
+            text = "I" 
+        intervals [3]:
+            xmin = 18.126544286745084 
+            xmax = 83.69901864897065 
+            text = "" 
+        intervals [4]:
+            xmin = 83.69901864897065 
+            xmax = 83.79863003200265 
+            text = "e" 
+        intervals [5]:
+            xmin = 83.79863003200265 
+            xmax = 96.85570719340878 
+            text = "" 
+        intervals [6]:
+            xmin = 96.85570719340878 
+            xmax = 96.98174764994725 
+            text = "i" 
+        intervals [7]:
+            xmin = 96.98174764994725 
+            xmax = 109.58745694304456 
+            text = "" 
+        intervals [8]:
+            xmin = 109.58745694304456 
+            xmax = 109.7607122643618 
+            text = "a" 
+        intervals [9]:
+            xmin = 109.7607122643618 
+            xmax = 122.69445090516868 
+            text = "" 
+        intervals [10]:
+            xmin = 122.69445090516868 
+            xmax = 122.8780053232974 
+            text = "a" 
+        intervals [11]:
+            xmin = 122.8780053232974 
+            xmax = 137.25175757972852 
+            text = "" 
+        intervals [12]:
+            xmin = 137.25175757972852 
+            xmax = 137.34194327649698 
+            text = "I" 
+        intervals [13]:
+            xmin = 137.34194327649698 
+            xmax = 206.36371443931912 
+            text = "" 
+        intervals [14]:
+            xmin = 206.36371443931912 
+            xmax = 206.4703000300334 
+            text = "i" 
+        intervals [15]:
+            xmin = 206.4703000300334 
+            xmax = 213.39380711497796 
+            text = "" 
+        intervals [16]:
+            xmin = 213.39380711497796 
+            xmax = 213.4603945259794 
+            text = "e" 
+        intervals [17]:
+            xmin = 213.4603945259794 
+            xmax = 694.1872789115646 
+            text = "" 

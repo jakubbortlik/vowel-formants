@@ -28,11 +28,10 @@
 #-------------------------------------------------------------------------------
 # Constants
 #-------------------------------------------------------------------------------
-working_dir$ = "./"					; the working directory with the script
-textgrids_dir$ = "./textgrids/"		; the directory with the textgrids
-sounds_dir$ = "./sounds/"			; the directory with the textgrids
-results_dir$ = "./results/"			; the directory to save result tables in
-stimuli$ = "./stimuli.csv"			; the list of stimuli with vowels and voicing
+textgrids_dir$ = "textgrids/"		; the directory with the textgrids
+sounds_dir$ = "sounds/"				; the directory with the textgrids
+results_dir$ = "results/"			; the directory to save result tables in
+stimuli$ = "stimuli.csv"			; the list of stimuli with vowels and voicing
 default_margin = 30					; margin (in %) of the V in which F are not measured 
 remember_margin = 1					; remeber the margin for the next word
 remembered_margin = default_margin
@@ -156,7 +155,7 @@ endif
 #-------------------------------------------------------------------------------
 # read in the list of stimuli
 #-------------------------------------------------------------------------------
-stimuli_readable = fileReadable (working_dir$ + stimuli$)
+stimuli_readable = fileReadable (stimuli$)
 if stimuli_list = 1
 	if !stimuli_readable
 		exitScript: "The file ", stimuli$, " does not exist or is not readable!"

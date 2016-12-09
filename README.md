@@ -45,9 +45,9 @@ User control
 ------------
 
 The interface can be controlled with the following keys:
-Q - quit
-P - previous item
-N - next item
-L - play the recording
-M - mark/unmark the item
-S - settings
+- Q - quit
+- P - previous item
+- N - next item
+- L - play the recording
+- M - mark/unmark the item
+- S - settings

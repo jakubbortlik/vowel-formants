@@ -8,6 +8,7 @@
 #  Organization:  
 #       Created:  2016-05-27
 #      Revision:  2016-08-07
+#       Version:  Vowel-Formant Inspection Tool v0.1
 #       License:  Copyright (c) 2016, Jakub Bortlík
 #                 This program is free software: you can redistribute it and/or
 #                 modify it under the terms of the GNU General Public License as

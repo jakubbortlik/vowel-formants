@@ -1,13 +1,13 @@
 vowel-formants.praat
 ====================
 
-This Praat script enables the user to inspect spectrograms of recordings when
-analyzing vowel formants. It utilizes Praat's Demo window. It displays a portion
-of the spectrogram with highlighted vowel boundaries, formants and pitch. The
-user can go back and forth from one items to another, compare formant settings
-and Praats analysis. The user can also listen to individual recordings and mark
-them for later inspection. After the inspection, the script calculates mean
-values of formants and writes the results to a table.
+This Praat script enables the user to inspect spectrograms, formants and pitch
+of recordings when analysing vowel formants. It utilizes Praat's Demo window
+(www.praat.org). It displays a portion of the spectrogram with highlighted vowel
+boundaries, formants and pitch. The user can go back and forth from one items to
+another, compare formant settings and Praat's analysis. The user can also listen
+to individual recordings and mark them for later analysis. After the inspection,
+the script calculates mean values of formants and writes the results to a table.
 
 Requirements
 ------------

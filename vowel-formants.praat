@@ -1371,3 +1371,8 @@ endproc    # ----------  end of procedure remove_initial_files  ----------
 
 # if the last margin selection was wrong (more than 49 etc.) enable cancelling
 # without warning
+
+#-------------------------------------------------------------------------------
+# TODO
+#-------------------------------------------------------------------------------
+# Add indication of absolute vowel duration below the spectrogram.

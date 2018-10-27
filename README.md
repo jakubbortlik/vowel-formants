@@ -36,9 +36,9 @@ Stimuli list
 ------------
 
 The script can use a list of stimuli in the form of a simple csv file with three
-three columns: vowel, voicing, word, specifying, respectively, the target vowel,
-voicing of the following consonant and the target word. This can be used to
-check whether the annotation on the word and vowel tier does not contains
+columns: "vowel", "voicing", and "word", specifying, respectively, the target
+vowel, voicing of the following consonant and the target word. This can be used
+to check whether the annotation on the word and vowel tier does not contain
 mistakes.
 
 User control
